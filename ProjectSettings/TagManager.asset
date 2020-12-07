@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Item1Sold
+  - Item2Sold
+  - Item3Sold
+  - PlayerMoneyTbox
+  - BuyButton1
+  - BuyButton2
+  - BuyButton3
   layers:
   - Default
   - TransparentFX

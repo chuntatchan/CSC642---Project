@@ -4,5 +4,35 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Screen.unity
+    guid: 3ab40ef415e940e4ca76c0decb23654f
+  - enabled: 1
+    path: Assets/Scenes/Hub Screen.unity
+    guid: e525932f3d167dc4db8886f1b76d3566
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 806a6db72ae372d4187f7df977598478
+  - enabled: 1
+    path: Assets/Scenes/Training.unity
+    guid: cc557b4bcf117ae4f9e31e3bfdb488aa
+  - enabled: 1
+    path: Assets/Scenes/Camp.unity
+    guid: 397b44849b7b39140b9fd594b91926a2
+  - enabled: 1
+    path: Assets/Scenes/Dungeon.unity
+    guid: d4a617f2cc5ec3b42baa0dfee9de87f4
+  - enabled: 1
+    path: Assets/Scenes/Shop_Sell.unity
+    guid: e2d971546770aea4fa2a7f7f4fdbd842
+  - enabled: 1
+    path: Assets/Scenes/Camp_All.unity
+    guid: 9cdb1e68959fa10499d9536b132ba013
+  - enabled: 1
+    path: Assets/Scenes/Camp_Armour.unity
+    guid: 00fefd9f5c08fff4cae6413509885012
+  - enabled: 1
+    path: Assets/Scenes/New Game.unity
+    guid: 340714b0e8a676341a66376a55598061
   m_configObjects: {}
